@@ -1,5 +1,5 @@
+import ShoppingCart from "./pages/ShoppingCart"
 
-import ShoppingCart from './Pages/ShoppingCart'
 
 function App() {
 
